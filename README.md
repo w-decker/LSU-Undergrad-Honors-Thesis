@@ -31,7 +31,7 @@ You have just completed a large body of work which is hopefully a reflection of 
 
 ## Using this template
 
-This template can be intergrated seamlessly into Overleaf. If you have premium features, you can fork this repository from GitHub and synchronize with Overleaf.
+This template can be intergrated seamlessly into Overleaf. If you have premium features, you can fork this repository from GitHub and synchronize with Overleaf. If not, simply downlaod the contents of this repo and upload them into Overleaf, where you can realtime compile your document to see it beautifully displayed in a rendered $\LaTeX$ format. There you can make the necessary changes and write your undergraduate honors thesis!
 
 ## Making changes
 
