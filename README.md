@@ -1,6 +1,6 @@
 # LSU-Undergrad-Honors-Thesis
 
-LaTeX template for Undergraduate Honors Thesis in the Department of Psychology
+LaTeX template for Undergraduate Honors Thesis in the Department of Psychology at Louisiana State University
 
 ## Some important information
 
